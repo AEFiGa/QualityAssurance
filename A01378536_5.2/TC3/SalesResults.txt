@@ -1,0 +1,47 @@
+id                          title quantity  price  subtotal
+ 1               Rustic breakfast      200  21.32   4264.00
+ 1            Sandwich with salad       23  22.48    517.04
+ 1                     Raw legums       11  17.11    188.21
+ 2                     Raw legums        2  17.11     34.22
+ 2                Fresh stawberry      221  28.59   6318.39
+ 3                 Green smoothie      400  17.68   7072.00
+ 3                Cuban sandwiche        2   18.5     37.00
+ 3 Hazelnut in black ceramic bowl        2  27.35     54.70
+ 4              Fresh blueberries      334  21.01   7017.34
+ 4                          Plums      250  19.18   4795.00
+ 4                       Tomatoes        1  26.03     26.03
+ 5                           Corn       68  13.55    921.40
+ 5                   French fries       33  18.32    604.56
+ 5                 Green smoothie      300  17.68   5304.00
+ 6                 Homemade bread        1  17.48     17.48
+ 6       Smoothie with chia seeds       46  25.26   1161.96
+ 6                          Plums        2  19.18     38.36
+ 6          Sweet fresh stawberry       87  29.45   2562.15
+ 6        Ground beef meat burger       78  11.73    914.94
+ 6                           Corn        1  13.55     13.55
+ 6 Hazelnut in black ceramic bowl        2  27.35     54.70
+ 7                   French fries        4  18.32     73.28
+ 7                 Green smoothie        1  17.68     17.68
+ 7        Ground beef meat burger       64  11.73    750.72
+ 7                           Corn        2  13.55     27.10
+ 7 Hazelnut in black ceramic bowl        2  27.35     54.70
+ 8                 Homemade bread      456  17.48   7970.88
+ 8          Sweet fresh stawberry        3  29.45     88.35
+ 8              Fresh blueberries      -35  21.01   -735.35
+ 8                           Corn        5  13.55     67.75
+ 8       Smoothie with chia seeds        2  25.26     50.52
+ 8                          Plums      645  19.18  12371.10
+ 8                 Green smoothie        2  17.68     35.36
+ 9                           Corn      465  13.55   6300.75
+ 9        Ground beef meat burger        4  11.73     46.92
+ 9          Sweet fresh stawberry      131  29.45   3857.95
+ 9 Hazelnut in black ceramic bowl        1  27.35     27.35
+ 9                 Homemade bread        9  17.48    157.32
+10                           Corn      445  13.55   6029.75
+10              Fresh blueberries     3445  21.01  72379.45
+10                          Plums      334  19.18   6406.12
+10                 Green smoothie     -123  17.68  -2174.64
+10                           Corn      678  13.55   9186.90
+10       Smoothie with chia seeds       13  25.26    328.38
+                                            Total 165235.37
+Execution time: 0.04281020164489746 seconds
